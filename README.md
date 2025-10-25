@@ -3,11 +3,7 @@ The game is practically Pac-Man, but with five Sussies from Kpop Demon Hunters. 
 
 👾Abilities:
 
----
-
 🎯You can buy more skins
-
----
 
 *🛸Dropping bombs at random places
 *🧸Respawn with points
